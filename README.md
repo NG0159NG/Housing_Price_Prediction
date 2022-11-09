@@ -1,8 +1,8 @@
 # Housing_Price_Prediction
 
-## Instruction: EE4483-IM4483 Project (Option 1)_saleprice.pdf
-## Code: Housing_Price_Prediction.ipynb
-## Dataset:
+1.  Instruction: EE4483-IM4483 Project (Option 1)_saleprice.pdf
+2.  Code: Housing_Price_Prediction.ipynb
+3.  Dataset:
   - train data (has SalePrice column): train.csv
   - test data (without SalePrice column): test.csv
   - submission (to be filled): submission.csv
